@@ -1,0 +1,2 @@
+[console_scripts]
+putusan-extract = putusan_mk_extractor.__main__:main

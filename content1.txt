@@ -1,0 +1,421 @@
+JAKSA AGUNG REPUBLIK INDONESIA PEDOMAN NOMOR 3 TAHUN 2025 TENTANG PENGAWALAN DAN PENGAMANAN TAHANAN DI LINGKUNGAN KEJAKSAAN REPUBLIK INDONESIA BAB I PENDAHULUAN 1 Latar Belakang Pengawalan dan pengamanan tahanan merupakan bagian dari sistem peradilan pidana yang mendukung proses peradilan yang dimulai dari penyidikan, penuntutan, pemeriksaan di persidangan, pelaksanaan penetapan hakim, serta pelaksanaan putusan pengadilan, baik dalam perkara tindak pidana umum, tindak pidana khusus maupun perkara koneksitas.
+Dalam praktiknya, terdapat perkembangan dinamika potensi ancaman, gangguan, hambatan, dan tantangan dalam pelaksanaan pengawalan dan pengamanan tahanan serta kebutuhan penanganan khusus bagi tahanan tertentu, seperti anak yang berkonflik dengan hukum, tahanan perempuan, tahanan penyandang disabilitas , dan tahanan koneksitas, termasuk kondisi tertentu seperti pembantaran, pengalihan jenis tahanan yang saat ini belum diakomodir dalam Peraturan Kejaksaan Nomor:
+PER - 005/A/JA/03/2013 tentang Standar Operasional Prosedur Pengawalan dan Pengamanan Tahanan sehingga Peraturan Kejaksaan dimaksud dinilai tidak relevan lagi menjadi acuan dalam pelaksanaan pengawalan dan pengamanan tahanan Selain Indonesia juga telah meratifikasi konvensi menentang penyiksaan dan perlakuan atau penghukuman lain yang kejam, tidak manusiawi, atau merendahkan martabat manusia melalui Undang-undang Nomor 5 Tahun 1998 tentang Pengesahan Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia) sehingga itu, 2 pelaksanaan pengawalan dan pengamanan tahanan juga mengedepankan penghormatan terhadap hak asasi manusia_ Berdasarkan hal tersebut perlu menetapkan Pedoman tentang Pengawalan dan Pengamanan Tahanan di Lingkungan Kejaksaan Republik Indonesia.
+2 .
+Maksud dan Tujuan a.
+Maksud Pedoman ini dimaksudkan sebagai panduan dalam melaksanakan pengawalan dan pengamanan tahanan yang menjadi tanggung jawab Kejaksaan Republik Indonesia.
+b Tujuan Pedoman ini bertujuan untuk:
+1) menciptakan tertib administrasi dalam pelaksanaan pengawalan dan pengamanan tahanan; dan 2) mewujudkan pelaksanaan pengawalan dan pengamanan tahanan yang profesional; efektif, efisien, akuntabel, dan menghormati hak manusia.
+3 Ruang Lingkup Ruang lingkup Pedoman ini meliputi asas, klasifikasi, tim pengawalan dan pengamanan tahanan, standar penanganan, prosedur, prasarana dan sarana, keadaan darurat, dukungan intelijen, sanksi, pendidikan dan pelatihan, pendataan, dan pendanaan.
+4 Dasar a.
+Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor 3209);
+b Undang-Undang Nomor 31 Tahun 1997 tentang Peradilan Militer (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 84 , Tambahan Lembaran Negara Republik Indonesia Nomor 3713);
+C .
+Undang-Undang Nomor 16 Tahun 2004 tentang Kejaksaan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 67 , Tambahan Lembaran Negara Republik Indonesia Nomor 4401) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2021 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 2004 tentang Kejaksaan Republik Indonesia (Lembaran Negara Republik asasi 3 Indonesia Tahun 2021 Nomor 298, Tambahan Lembaran Negara Republik Indonesia Nomor 6755);
+d Undang-Undang Nomor 17 Tahun 2011 tentang Intelijen Negara (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 105, Tambahan Lembaran Negara Republik Indonesia Nomor 5249);
+e Peraturan Pemerintah Nomor 27 Tahun 1983 tentang Pelaksanaan Kitab Undang-Undang Hukum Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 36, Tambahan Lembaran Negara Republik Indonesia Nomor 3258) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 92 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 27 Tahun 1983 tentang Pelaksanaan Kitab Undang-Undang Hukum Acara Pidana (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 290, Tambahan Lembaran Negara Republik Indonesia Nomor 5772);
+f Peraturan Presiden Nomor 38 Tahun 2010 tentang Organisasi dan Tata Kerja Kejaksaan Republik Indonesia sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Presiden Nomor 15 Tahun 2024 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 38 Tahun 2010 tentang Organisasi dan Tata Kerja Kejaksaan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 28);
+g Peraturan Jaksa Agung Nomor PER-006 /A/ JA/07/2017 tentang Organisasi dan Tata Kerja Kejaksaan Republik Indonesia (Berita Negara Republik Indonesia Tahun 2017 Nomor 1069) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Kejaksaan Nomor 3 Tahun 2024 tentang Perubahan Keempat atas Peraturan Jaksa Agung Nomor PER-006/A/JA/07/2017 tentang Organisasi dan Tata Kerja Kejaksaan Republik Indonesia (Berita Negara Republik Indonesia Tahun 2024 Nomor 448);
+h.
+Pedoman Jaksa Agung Nomor 1 Tahun 2021 tentang Akses Keadilan Bagi Perempuan dan Anak Dalam Penanganan Perkara Pidana;
+1 Pedoman Jaksa Agung Nomor 2 Tahun 2023 tentang Akomodasi yang Layak dan Penanganan Perkara yang Aksesibel dan Inklusif Bagi Penyandang Disabilitas Dalam Proses Peradilan;
+Pedoman Jaksa Agung Nomor 4 Tahun 2023 tentang Pengawasan Penahanan Kota dan Penahanan Rumah pada Tahap Penyidikan dan Penuntutan.
+4 5 Pengertian a.
+Kejaksaan Republik Indonesia yang selanjutnya disebut Kejaksaan adalah lembaga pemerintahan yang fungsinya berkaitan dengan kekuasaan kehakiman yang melaksanakan kekuasaan negara di bidang penuntutan serta kewenangan lain berdasarkan Undang-Undang:
+b.
+Pengawalan adalah segala usaha, pekerjaan, dan tindakan penjagaan yang bertujuan untuk membawa tahanan dari satu tempat tertentu ke tempat tertentu dan dilakukan secara terus menerus atau dalam jangka waktu tertentu C Pengamanan adalah segala usaha, pekerjaan, dan tindakan yang dilakukan secara terus menerus atau dalam jangka waktu tertentu, dengan atau tanpa bantuan teknologi untuk menjaga keamanan dari segala ancaman dan gangguan yang dapat mengganggu ataupun membahayakan tahanan d.
+Tahanan adalah tersangka, terdakwa, atau terpidana yang sedang menjalani proses peradilan dan dilakukan penahanan atau dipidana penjara.
+e Anak yang Berkonflik dengan Hukum yang selanjutnya disebut Anak adalah anak yang telah berumur 12 (dua belas) tahun tetapi belum berumur 18 (delapan belas) tahun yang diduga melakukan tindak pidana.
+f Penyandang Disabilitas adalah setiap orang yang mengalami keterbatasan fisik, intelektual, mental, dan/ atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak.
+g Jaksa adalah pegawai negeri sipil dengan jabatan fungsional yang memiliki kekhususan dan melaksanakan tugas, fungsi, dan kewenangannya berdasarkan Undang-Undang.
+h.
+Penuntut Umum adalah Jaksa yang diberi wewenang oleh Undang - Undang untuk melakukan penuntutan dan melaksanakan penetapan hakim serta wewenang lain berdasarkan Undang-Undang.
+i.
+Prajurit Tentara Nasional Indonesia yang selanjutnya disebut Prajurit TNI adalah warga negara Indonesia yang memenuhi persyaratan yang ditentukan peraturan perundang-undangan dan diangkat oleh pejabat yang berwenang untuk mengabdikan diri dalam dinas keprajuritan.
+5 J Anggota Kepolisian Republik Indonesia yang selanjutnya disebut Anggota Polri adalah pegawai negeri Kepolisian Negara Republik Indonesia.
+k.
+Penjaga Tahanan adalah pegawai negeri sipil di lingkungan Kejaksaan yang diberi tugas untuk menyiapkan, menjaga, mengawal, mengamankan, dan menyelamatkan Tahanan penyidikan untuk perkara yang dilakukan penyidikan oleh Kejaksaan, penuntutan, pemeriksaan di sidang pengadilan dan pelaksanaan putusan pengadilan.
+1.
+Pengemudi adalah pegawai negeri sipil di lingkungan Kejaksaan yang diberi tugas untuk mengemudikan dan merawat mobil Tahanan m Tim Pengawalan dan Pengamanan Tahanan yang selanjutnya disebut Tim Walpamhan adalah satuan kelompok tugas yang dibentuk untuk melakukan Pengawalan dan Pengamanan Tahanan yang menjalani proses peradilan.
+n.
+Rumah Tahanan yang selanjutnya disebut Rutan adalah lembaga atau tempat yang menjalankan fungsi Pelayanan terhadap Tahanan 0 Instalasi Tahanan Militer yang selanjutnya disebut Staltahmil adalah suatu instalasi atau tempat yang digunakan untuk penampungan para Tahanan militer .
+p.
+Lembaga Penempatan Anak Sementara yang selanjutnya disingkat LPAS adalah tempat sementara bagi anak selama proses peradilan berlangsung.
+9.
+Lembaga Penyelenggaraan Kesejahteraan Sosial yang selanjutnya disingkat LPKS adalah lembaga atau tempat pelayanan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial bagi Anak.
+1 Lembaga Pemasyarakatan yang selanjutnya disebut Lapas adalah lembaga atau tempat yang menjalankan fungsi pembinaan terhadap narapidana.
+S.
+Lembaga Pembinaan Khusus Anak yang selanjutnya disingkat LPKA adalah lembaga atau tempat anak binaan menjalani masa pidananya.
+BAB II ASAS Pengawalan dan Pengamanan Tahanan dilaksanakan berdasarkan asas sederhana, cepat dan biaya ringan, profesional, proporsional, efektif, efisien, akuntabel, koordinatif, kehati-hatian, dan tanggung jawab pada pada tahap 6 BAB III KLASIFIKASI 1 .
+Pengawalan dan Pengamanan dilakukan terhadap Tahanan tahap:
+a.
+penyidikan untuk perkara yang penyidikannya dilakukan oleh Kejaksaan;
+b penuntutan;
+C pemeriksaan di persidangan; dan d.
+pelaksanaan putusan pengadilan.
+2 Tahanan sebagaimana dimaksud angka 1 merupakan Tahanan dalam perkara:
+a.
+tindak pidana umum;
+b.
+tindak pidana khusus; dan C koneksitas.
+3 .
+Penyelenggaraan Pengawalan dan Pengamanaan dengan memperhatikan kebutuhan maupun prosedur khusus terhadap:
+a.
+Anak;
+b.
+Tahanan perempuan;
+C .
+Tahanan Penyandang Disabilitas; dan d Tahanan Prajurit TNI 4 Selain diselenggarakan terhadap Tahanan sebagaimana dimaksud 3, penyelenggaraan Pengawalan dan Pengamanaan Tahanan dengan memperhatikan kebutuhan maupun prosedur khusus juga dapat diterapkan terhadap Tahanan dalam perkara penting, Tahanan yang memiliki kedudukan khusus, Tahanan yang menarik perhatian masyarakat, atau Tahanan yang menurut penilaian pimpinan memerlukan prosedur khusus dalam penyelenggaraan Pengawalan dan Pengamanan Tahanan.
+5 Pengawalan dan Pengamanan Tahanan tahap sebagaimana dimaksud angka 1, dilakukan oleh Tim Walpamhan terhadap:
+8.
+Tahanan Rutan atau Anak;
+b Tahanan atau Anak yang dibantarkan (stuiting);
+c Tahanan atau Anak yang melaksanakan izin khusus;
+d.
+tersangka atau terdakwa yang status penahanannya dialihkan menjadi Tahanan Rutan;
+e.
+terdakwa atau Anak yang berdasarkan penetapan atau putusan pengadilan memerintahkan untuk segera ditahan atau berdasarkan putusan pengadilan dijatuhi pidana penjara; dan pada pada pada angka pada pada f.
+terpidana yang menjadi saksi dalam perkara lain 6.
+Rute Pengawalan dan Pengamanan Tahanan, meliputi:
+a.
+ruang Tahanan Kejaksaan, ruang Tahanan pengadilan atau ruang tunggu sidang Anak atau tempat tertentu ke Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA;
+b Rutan, LPAS, LPKS 2 Staltahmil, Lapas, atau LPKA ke ruang Tahanan Kejaksaan, ruang Tahanan pengadilan atau ruang tunggu sidang Anak atau tempat tertentu;
+C ruang Tahanan pengadilan atau ruang tunggu sidang Anak ke ruang persidangan; dan d.
+ruang persidangan ke ruang Tahanan pengadilan atau ruang tunggu sidang Anak.
+7 .
+Tempat tertentu sebagaimana dimaksud 6 huruf a dan huruf b antara lain:
+a.
+bandara, termasuk ruang transit atau ruang tunggu bandara, dan di dalam moda transportasi udara;
+b pelabuhan atau dermaga, termasuk ruang transit atau ruang tunggu pelabuhan atau dermaga, dan di dalam moda transportasi C.
+rumah sakit, klinik, atau tempat pemberian pertolongan medis lainnya;
+d.
+rumah duka; dan/atau e.
+tempat lain sesuai dengan ketentuan peraturan perundang-undangan 8 Rute Pengawalan dan Pengamanan sebagaimana dimaksud angka 6 dilaksanakan dengan menentukan rute tetap dan rute alternatif.
+9 Penentuan rute dan rute alternatif sebagaimana dimaksud angka 8 ditetapkan oleh pejabat pada:
+a Kejaksaan Agung oleh Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum, Jaksa Agung Muda Bidang Tindak Pidana Khusus, dan Jaksa Agung Muda Bidang Pidana Militer;
+b Kejaksaan Tinggi oleh Kepala Seksi Asisten Bidang Tindak Pidana Umum, Asisten Bidang Tindak Pidana Khusus, dan Asisten Bidang Pidana Militer;
+C Kejaksaan Negeri oleh Kepala Seksi Tindak Pidana Umum atau Kepala Seksi Tindak Pidana Khusus; dan d.
+Cabang Kejaksaan Negeri oleh Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset.
+10. Penetapan rute
+dan rute alternatif sebagaimana dimaksud angka 9 berdasarkan usulan dari Tim Walpamhan.
+pada angka air;
+pada pada tetap pada pada pada tetap 8 11. Penentuan rute alternatif sebagaimana dimaksud
+angka 8 digunakan dalam keadaaan darurat atau kondisi tertentu dengan mempertimbangkan keselamatan dan keamanan.
+12. Dalam hal diperlukan pejabat sebagaimana dimaksud
+angka 9 dapat berkoordinasi dengan unit lalu lintas Kepolisian dan Dinas Perhubungan setempat dalam rangka melakukan rekayasa lalu lintas saat mobil Tahanan beroperasi.
+BAB IV TIM WALPAMHAN 1.
+Susunan a.
+Tim Walpamhan pada Kejaksaan Agung, Kejaksaan Tinggi, dan Kejaksaan Negeri paling sedikit terdiri atas:
+1) 1 (satu) orang bertindak selaku komandan;
+2) 1 (satu) orang bertindak selaku wakil komandan;
+3) 2 (dua) orang atau lebih yang bertindak selaku anggota; dan 4) 1 (satu) orang atau lebih bertindak selaku Pengemudi.
+b.
+Tim Walpamhan pada Cabang Kejaksaan Negeri paling sedikit terdiri atas:
+1) 1 (satu) orang bertindak selaku komandan;
+2) 2 (dua) orang atau lebih yang bertindak selaku anggota; dan 3) 1 (satu) orang atau lebih bertindak selaku Pengemudi.
+C.
+Penambahan jumlah dan susunan Tim Walpamhan sebagaimana dimaksud huruf a dan huruf b dilaksanakan dengan mempertimbangkan rasio jumlah tahanan, kebutuhan dan prosedur khusus terhadap Tahanan dalam perkara penting, Tahanan yang memiliki kedudukan khusus, Tahanan yang menarik perhatian masyarakat, atau Tahanan yang menurut penilaian pimpinan memerlukan prosedur khusus dalam penyelenggaraan Pengawalan dan Pengamanan Tahanan, situasi, dan kondisi setempat.
+d.
+Komandan sebagaimana dimaksud huruf a angka 1) dan huruf b angka 1) serta wakil komandan sebagaimana dimaksud huruf a 2) berasal dari unsur Penjaga Tahanan.
+€ Khusus perkara koneksitas, komandan dan wakil komandan sebagaimana dimaksud huruf d dapat berasal dari unsur Prajurit TNI .
+pada pada pada pada pada pada pada angka pada f.
+Anggota Tim Walpamhan sebagaimana dimaksud huruf a 3) dan huruf b angka 2) dapat berasal dari unsur Penjaga Tahanan, Anggota Polri, dan/ atau Prajurit TNI.
+g.
+Prajurit TNI sebagaimana dimaksud huruf e dan huruf f diprioritaskan Prajurit TNI yang melaksanakan penugasan di Kejaksaan 2 .
+Tugas a.
+Tim Walpamhan bertugas:
+1) menjaga keselamatan dan keamanan Tahanan untuk mendukung kelancaran proses penanganan perkara;
+2) melakukan Pengawalan dan Pengamanan Tahanan sesuai rute yang ditentukan;
+3) mengamankan Tahanan dari orang yang diduga dapat menimbulkan ancaman, gangguan, hambatan, dan tantangan;
+4) memeriksa dan / atau mengamankan barang yang dilarang penggunaannya atau berpotensi menggagalkan pelaksanaan Pengawalan dan Pengamanan Tahanan;
+5) memastikan identitas dan jumlah Tahanan yang akan dilakukan Pengawalan dan Pengamanan;
+6) memisahkan penempatan Tahanan laki-laki, perempuan dan Anak selama proses Pengawalan dan Pengamanan;
+7) memeriksa prasarana dan sarana Pengawalan dan Pengamanan Tahanan dalam kondisi baik dan layak beroperasi sebelum melakukan Pengawalan dan Pengamanan; dan 8) menyiapkan administrasi Pengawalan dan Pengamanan Tahanan, melakukan monitoring dan evaluasi, serta melaporkan pelaksanaan tugas.
+b Komandan Tim Walpamhan bertugas:
+1) memimpin dan mengendalikan kegiatan pelaksanaan Pengawalan dan Pengamanan;
+2) memerintahkan wakil komandan dan/ atau anggota Tim Walpamhan untuk menyiapkan perlengkapan Pengawalan dan Pengamanan Tahanan atau Anak, administrasi yang dibutuhkan pihak Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA terhadap Tahanan Rutan atau Anak termasuk Tahanan yang status penahanannya dialihkan menjadi Tahanan Rutan, LPAS, atau LPKS, Tahanan yang berdasarkan penetapan dan pelaksanaan putusan pengadilan memerintahkan untuk segera ditahan;
+angka pada pada 10 3) melakukan pengecekan:
+a) perlengkapan Tahanan antara lain senjata borgol beserta kuncinya, dan baju atau rompi Tahanan;
+b) mobil Tahanan dan / atau alat transportasi lainnya yang akan digunakan;
+c) ruang Tahanan Kejaksaan / 'pengadilan atau ruang tunggu sidang Anak, tempat tertentu yang akan digunakan untuk melakukan Pengamanan terhadap Tahanan atau Anak, dan ruang persidangan;
+d) rute; dan e) prasarana dan sarana lainnya, dalam kondisi aman, baik dan layak beroperasi, serta melaporkan hasilnya kepada pejabat pemberi perintah atau pemberi tugas.
+4) melakukan koordinasi secara berlanjut dengan instansi terkait selama pelaksanaan Pengawalan dan Pengamanan Tahanan atau Anak;
+5) mengamankan kunci borgol dan kunci ruang Tahanan atau ruang tunggu sidang Anak;
+6) mengawasi anggota dan Pengemudi dalam melaksanakan tugasnya;
+dan 7) melaporkan pelaksanaan tugas kepada Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus Asisten Pidana Militer , Kepala Seksi Tindak Pidana Umum / Kepala Seksi Tindak Pidana Khusus atau Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset Cabang Kejaksaan Negeri yang bertanggungjawab dalam penanganan perkara.
+C.
+Wakil komandan Tim Walpamhan bertugas:
+1) menggantikan tugas komandan jika komandan berhalangan;
+2) melakukan pengecekan kelengkapan administrasi penahanan dan kelengkapan administrasi personel Pengawalan dan Pengamanan Tahanan atau Anak;
+3) melakukan pengecekan terhadap Tahanan atau Anak antara lain pengecekan jumlah Tahanan atau Anak, kondisi Tahanan atau Anak, dan barang yang dibawa Tahanan atau Anak;
+api, pada pada 11 4) membuka dan mengunci ruang Tahanan Kejaksaan, ruang tahanan pengadilan atau ruang tunggu sidang Anak pengadilan, dan mobil Tahanan; dan 5) melaporkan pelaksanaan tugas kepada komandan.
+d.
+Anggota bertugas:
+1) memasang atau melepas borgol dan mengenakan atau menanggalkan baju atau rompi Tahanan Tahanan.
+2) melakukan Pengawalan dan Pengamanan Tahanan atau Anak sesuai formasi dan rute Pengawalan dan Pengamanan yang ditentukan; dan 3) membantu tugas komandan, wakil komandan, dan Pengemudi.
+e Pengemudi bertugas:
+1) mengemudikan mobil Tahanan/alat transportasi untuk membawa Tahanan sesuai rute Pengawalan dan Pengamanan Tahanan;
+2) melakukan pengecekan terhadap kondisi kelayakan mobil Tahanan / alat transportasi;
+3) melaporkan hasil pengecekan mobil Tahanan / alat transportasi sebagaimana dimaksud dalam huruf b kepada komandan; dan 4) membantu tugas komandan, wakil komandan, dan anggota.
+3.
+Pembentukan 8.
+Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri atau Kepala Cabang Kejaksaan Negeri mengajukan permohonan bantuan personel kepada pimpinan instansi Kepolisian dan / atau Tentara Nasional Indonesia sesuai wilayah hukumnya untuk menjadi anggota Tim Walpamhan b Setelah menerima nama personel yang diperintahkan menjadi anggota Tim Walpamhan dalam surat perintah pimpinan instansi sebagaimana dimaksud 1, Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus /Bidang Pidana Militer , Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri atau Kepala Cabang Kejaksaan Negeri menerbitkan Surat Perintah Tim Walpamhan.
+C.
+Penerbitan surat perintah Pengawalan dan Pengamanan sebagaimana dimaksud pada huruf b dapat dilakukan secara periodik maupun insidentil.
+pada pada pada pada pada pada angka pada 12 d.
+Pelaksanaan pengendalian surat perintah Tim Walpamhan sebagaimana dimaksud huruf b dilaksanakan oleh:
+1) Kepala Subdirektorat pada Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+2) Kepala Seksi Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus / Asisten Pidana Militer;
+3) Kepala Seksi Tindak Pidana Umum/Tindak Pidana Khusus; dan 4) Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset.
+e.
+Surat perintah Tim Walpamhan sebagaimana dimaksud huruf b, paling sedikit memuat:
+1) dasar;
+2) nama personel beserta jabatannya;
+3) tugas;
+4) jangka waktu Pengawalan dan Pengamanan Tahanan; dan 5) tempat pelaksanaan Pengawalan dan Pengamanan Tahanan f.
+Jangka waktu Pengawalan dan Pengamanan Tahanan sebagaimana dimaksud huruf e angka 4) paling lama 1 (satu) tahun g Apabila terdapat pergantian personel maka Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri atau Kepala Cabang Kejaksaan Negeri menerbitkan surat perintah yang baru dengan jangka waktu Pengawalan dan Pengamanan Tahanan menghabiskan jangka waktu Pengawalan dan Pengamanan Tahanan pada surat perintah yang lama.
+h.
+Dalam keadaan tertentu, Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum /Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri atau Kepala Cabang Kejaksaan Negeri dapat melakukan penambahan personel dari:
+1) unsur Kejaksaan, meliputi Penjaga Tahanan, Pengemudi dan/atau Prajurit TNI yang ditugaskan di Kejaksaan;
+2) unsur Kepolisian; dan/ atau 3) unsur Tentara Nasional Indonesia, untuk membantu Tim Walpamhan pada pada pada pada pada pada pada pada 13 i.
+Penambahan personel sebagaimana dimaksud huruf h 1) melalui nota dinas kepada pimpinan personel.
+j.
+Penambahan personel sebagaimana dimaksud huruf h angka 2) dan 3) melalui surat permohonan yang ditujukan kepada pimpinan instansi Kepolisian dan / atau Tentara Nasional Indonesia sesuai wilayah hukumnya yang paling sedikit memuat:
+1) jumlah anggota;
+2) jangka waktu Pengawalan dan Pengamanan Tahanan; dan 3) tempat pelaksanaan Pengawalan dan Pengamanan Tahanan.
+k.
+Penambahan personel dari unsur Tentara Nasional Indonesia sebagaimana dimaksud huruf h angka 3) hanya dilakukan terhadap perkara terorisme, perkara yang menarik perhatian masyarakat, dan / atau perkara yang menurut pimpinan memerlukan unsur Tentara Nasional Indonesia dalam Pengawalan dan Pengamanan Tahanan.
+4 Formasi a.
+Tim Walpamhan menyusun formasi Pengawalan dan Pengamanan Tahanan dalam melaksanakan tugasnya wajib memperhatikan jumlah tim, kondisi rute, Rutan, ruang Tahanan Kejaksaan, pengadilan, ruang tunggu ramah Anak, LPAS, LPKS, Staltahmil, Lapas, atau LPKA, tempat tertentu, dan / atau situasi saat dilakukan Pengawalan dan Pengamanan Tahanan.
+b.
+Formasi Tim Walpamhan meliputi:
+1) formasi Tim Walpamhan dalam mobil Tahanan;
+2) formasi
+Tim Walpamhan ketika menaikkan Tahanan atau Anak ke mobil Tahanan;
+3) formasi Tim Walpamhan ketika menurunkan Tahanan atau Anak; dan 4) formasi Tim Walpamhan tahapan pemeriksaan di persidangan.
+C.
+Formasi Tim Walpamhan dalam mobil Tahanan sebagaimana dimaksud huruf b angka 1), sebagai berikut:
+1) Pengemudi mengemudikan mobil Tahanan;
+2) komandan dan /atau wakil komandan di depan bersama Pengemudi;
+dan 3) 2 (dua) orang anggota berada di belakang, di depan pintu ruang Tahanan mobil Tahanan;
+d.
+Formasi Tim Walpamhan ketika menaikkan Tahanan atau Anak ke mobil Tahanan sebagaimana dimaksud huruf b angka 2), sebagai berikut:
+angka pada pada angka pada pada pada pada pada pada 14 1) komandan regu mengawasi perpindahan Tahanan atau Anak dalam jarak yang tidak terlalu jauh dari mobil Tahanan dan pintu Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA atau ruang Tahanan;
+2) Pengemudi di depan pintu ruang Tahanan mobil Tahanan;
+3) wakil komandan di depan pintu Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA atau ruang Tahanan;
+4) 1 (satu) anggota mengantar Tahanan dari Rutan, LPAS , LPKS , Staltahmil, Lapas, atau LPKA atau ruang Tahanan ke ruang Tahanan mobil Tahanan; dan 5) 1 (satu) anggota berada di belakang mobil.
+e.
+Formasi Tim Walpamhan ketika menurunkan Tahanan atau Anak ke mobil Tahanan sebagaimana dimaksud huruf b angka 3), sebagai berikut:
+1) komandan mengawasi perpindahan Tahanan atau Anak dalam jarak yang tidak terlalu jauh dari mobil Tahanan dan pintu Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA atau ruang Tahanan;
+2) Pengemudi di depan pintu ruang Tahanan mobil Tahanan;
+3) wakil komandan di depan pintu Rutan, LPAS, LPKS , Staltahmil, Lapas, atau LPKA atau ruang Tahanan;
+4) 1 (satu) anggota mengantar Tahanan atau Anak dari ruang Tahanan mobil Tahanan ke Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA atau ruang Tahanan; dan 5) 1 (satu) anggota berada di belakang mobil Tahanan f.
+Formasi Tim Walpamhan tahapan pemeriksaan di persidangan sebagaimana dimaksud huruf b angka sebagai berikut:
+1) komandan mengawasi perpindahan Tahanan atau Anak dalam jarak yang tidak terlalu jauh dari ruang Tahanan pengadilan / ruang tunggu sidang Anak dan ruang persidangan;
+2) wakil komandan dan/atau 1 (satu) anggota berada di dalam ruang persidangan;
+3) Pengemudi dan 1 (satu) anggota di depan pintu ruang Tahanan pengadilan / ruang tunggu sidang Anak;
+4) 1 (satu) anggota mengantar Tahanan atau Anak dari ruang Tahanan pengadilan / ruang tunggu sidang Anak ke ruang persidangan atau sebaliknya; dan pada pada pada pada pada pada 4) ,
+pada 15 5) formasi Tim Walpamhan sebagaimana dimaksud angka 1), angka 2), angka 3), dan angka 4) disesuaikan dengan rasio jumlah Tahanan dan Tim Walpamhan yang ditentukan oleh komandan.
+g.
+Formasi Tim Walpamhan dengan menggunakan mobil Tahanan berlaku mutatis mutandis terhadap formasi Tim Walpamhan pada penggunaan alat transportasi selain mobil Tahanan dengan memperhatikan ketentuan peraturan perundang-undangan maupun peraturan kebijakan mengenai Pengawalan dan Pengamanan Tahanan moda transportasi darat, air, maupun udara.
+5 Pakaian dinas dan perlengkapan Tim Walpamhan a.
+Tim Walpamhan menggunakan pakaian dinas dan perlengkapan secara lengkap selama pelaksanaan Pengawalan dan Pengamanan Tahanan.
+b.
+Perlengkapan sebagaimana dimaksud pada huruf a sekurang-kurangnya terdiri atas alat perlindungan diri dan alat komunikasi.
+C.
+Dalam hal Pengawalan dan Pengamanan dilakukan terhadap Tahanan sipil maka Prajurit TNI yang menjadi anggota Tim Walpamhan menggunakan perlengkapan yang bersifat melumpuhkan.
+BAB V STANDAR PENANGANAN 1.
+Umum 8.
+Tim Walpamhan memastikan Tahanan memakai borgol, baju atau rompi Tahanan dan pakaian rapi selama Pengawalan dan Pengamanan, kecuali Anak.
+b.
+Pemakaian borgol sebagaimana dimaksud huruf a dengan kondisi terdapat kelonggaran sebesar 1 (satu) jari kelingking sehingga Tahanan tidak dapat mengotak-atik atau melepaskan borgol.
+C.
+Dalam hal Tahanan lebih dari 1 (satu) orang maka pemakaian borgol sebagaimana dimaksud huruf b dilakukan secara bersama-sama terhadap para Tahanan, yakni 5 (lima) borgol untuk 10 (sepuluh) Tahanan d Pakaian rapi sebagaimana dimaksud huruf a, meliputi:
+1) kemeja lengan panjang warna putih; dan 2) celana / rok panjang warna gelap.
+pada pada pada pada pada 16 € Tim Walpamhan wajib melakukan pengecekan terhadap kondisi dan kelayakan prasarana dan sarana serta perlengkapan sebelum melaksanakan Pengawalan dan Pengamanan Tahanan.
+f Tim Walpamhan menyiapkan administrasi Pengawalan dan Pengamanan Tahanan sesuai tahapan penanganan perkara termasuk administrasi pemberitahuan pelaksanaan Pengawalan dan Pengamanan Tahanan kepada bidang intelijen.
+g Selama di ruang Tahanan pengadilan, Tahanan tidak dibenarkan dikunjungi / dibesuk oleh keluarga maupun kerabat Tahanan, kecuali:
+1) penasihat hukumnya; dan/atau
+2) lain sesuai dengan ketentuan peraturan perundang-undangan.
+h.
+Apabila terdapat bukti bahwa penasihat hukum dan/atau pihak lain sebagaimana dimaksud huruf g melakukan tindakan yang dapat menimbulkan ancaman, gangguan, hambatan, dan tantangan selama kunjungannya dengan Tahanan maka Tim Walpamhan berwenang membatalkan kunjungan tersebut.
+2 Anak a.
+Pengawalan dan Pengamanan terhadap Anak dilakukan tanpa mengenakan borgol dan baju atau rompi Tahanan b.
+Tempat Anak terpisah / dipisahkan dari Tahanan dewasa C .
+Selama proses Pengawalan dan Pengamanan; Anak berhak didampingi pendamping sesuai dengan ketentuan peraturan perundang-undangan.
+3 Tahanan Perempuan a.
+Pengawalan dan Pengamanan terhadap Tahanan perempuan dilakukan oleh Penjaga Tahanan perempuan.
+b.
+Dalam hal tidak terdapat Penjaga Tahanan perempuan maka Pengawalan dan Pengamanan sebagaimana dimaksud angka 1 dilakukan oleh Penjaga Tahanan laki-laki.
+C.
+Tempat Tahanan perempuan terpisah / dipisahkan dengan Tahanan laki- laki.
+4 Tahanan Penyandang Disabilitas a.
+Pengawalan dan Pengamanan terhadap Tahanan Penyandang Disabilitas dilakukan melalui pemberian sarana kebutuhan khusus, antara lain:
+1) kursi roda;
+2) tongkat pembantu;
+3) alat bantu pendengaran; dan/ atau pihak pada pada 17 4) sarana lain sesuai dengan kebutuhan Tahanan Penyandang Disabilitas b Pemberian sarana kebutuhan khusus sebagaimana dimaksud huruf a memperhatikan surat keterangan dokter atau hasil rekam medis terhadap Tahanan Penyandang Disabilitas.
+5 Tahanan Militer a.
+Pengawalan dan Pengamanan terhadap Tahanan militer dilakukan oleh Prajurit TNI sebagai anggota dalam Tim Walpamhan b Prajurit TNI sebagaimana dimaksud huruf a menggunakan perlengkapan senjata api sesuai dengan ketentuan peraturan perundang-undangan.
+C.
+Tahanan militer menggunakan atau membawa pakaian dinas harian atau pakaian dinas lapangan ketika disidangkan peradilan militer dan menggunakan pakaian bebas rapi ketika disidangkan peradilan umum.
+BAB VI PROSEDUR 1 Tahanan Rutan atau Anak 8.
+Tahap penyidikan untuk perkara yang dilakukan penyidikan oleh Kejaksaan 1) Jaksa penyidik membuat nota dinas kepada Direktur pada Jaksa Agung Muda Bidang Tindak Pidana Khusus / Bidang Pidana Militer , Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri secara berjenjang untuk melakukan Pengawalan dan Pengamanan terhadap tersangka atau Anak yang dilakukan penahanan Rutan, LPAS, atau LPKS 2) Pengawalan dan Pengamanan terhadap tersangka atau Anak sebagaimana dimaksud angka 1) termasuk juga terhadap tersangka atau Anak yang sedang menjalani pidana di Lapas atau LPKA 3) Terhadap nota dinas sebagaimana dimaksud pada angka 1) diterbitkan surat perintah kepada Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan Tahanan dengan rute dari kantor pada pada pada pada pada pada 18 Kejaksaan ke Rutan LPAS, LPKS , atau Staltahmil maupun rute sebaliknya.
+4) Penerbitan surat perintah sebagaimana dimaksud angka 3) serta pelaksanaan pengendalian surat perintah tersebut memperhatikan ketentuan dalam Bab IV angka 3.
+5) Pengawalan dan Pengamanan sebagaimana dimaksud angka 3) termasuk juga Pengawalan dan Pengamanan tersangka atau Anak dengan rute dari Lapas atau LPKA ke kantor Kejaksaan atau sebaliknya, terhadap tersangka atau Anak yang sedang menjalani pidana di Lapas atau LPKA.
+6) Tim Walpamhan berkoordinasi dengan Jaksa penyidik untuk menyiapkan kelengkapan administrasi Tahanan atau Anak.
+7) Tim Walpamhan melakukan pemeriksaan terhadap Tahanan atau Anak, meliputi:
+a) pemeriksaan administrasi, menyesuaikan identitas Tahanan atau Anak; dan b) pemeriksaan fisik, yaitu kesehatan Tahanan atau Anak dan barang yang dibawa oleh Tahanan atau Anak.
+8) Apabila hasil pemeriksaan sebagaimana dimaksud angka 7) ditemukan ancaman, gangguan, hambatan, dan tantangan maka Tim Walpamhan melakukan tindakan Pengamanan dan melaporkannya kepada:
+a) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum / 'Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+b) Kepala Seksi Asisten Tindak Pidana Umum Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi;
+c) Kepala Seksi Tindak Pidana Umum/ Tindak Pidana Khusus Kejaksaan Negeri; atau d) Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset Cabang Kejaksaan Negeri, sesuai dengan tempat penanganan perkara.
+9) Tim Walpamhan memakaikan borgol dan baju Tahanan kepada Tahanan, kecuali Anak 10) Tim Walpamhan melakukan Pengawalan dan Pengamanan Tahanan
+atau Anak berdasarkan formasi dan rute yang telah ditentukan.
+pada pada yaitu pada pada pada pada pada 19 11) Setelah
+melakukan Pengawalan dan Pengamanan Tahanan Tim Walpamhan melaporkan pelaksanaannya kepada pejabat sebagaimana dimaksud angka 8) sesuai dengan tempat penanganan perkara dilengkapi dengan berita acara yang ditandatangani oleh pihak Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA dan Tahanan atau Anak.
+b.
+Tahap Penyerahan Tanggung Jawab atas Tersangka dan Barang Bukti (Tahap II) 1) Penuntut Umum membuat nota dinas kepada Direktur pada Jaksa Agung Muda Bidang Tindak Pidana Umum/Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri untuk melakukan Pengawalan dan Pengamanan terhadap terdakwa atau Anak yang dilakukan penahanan Rutan, LPAS, atau LPKS_ 2) Pengawalan dan Pengamanan terhadap terdakwa atau Anak sebagaimana dimaksud angka 1) termasuk juga terhadap terdakwa atau Anak yang sedang menjalani pidana di Lapas atau LPKA_ 3) Terhadap nota dinas sebagaimana dimaksud pada angka 1) diterbitkan surat perintah kepada Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan Tahanan dengan rute dari kantor Kejaksaan ke Rutan LPAS, LPKS , atau Staltahmil maupun rute sebaliknya.
+4) Penerbitan surat perintah sebagaimana dimaksud 3) serta pelaksanaan pengendalian surat perintah tersebut memperhatikan ketentuan dalam Bab IV 3 5) Pengawalan dan Pengamanan sebagaimana dimaksud angka 3) termasuk juga Pengawalan dan Pengamanan terdakwa atau Anak dengan rute dari Lapas atau LPKA ke kantor Kejaksaan atau sebaliknya, terhadap terdakwa atau Anak yang sedang menjalani pidana di Lapas atau LPKA 6) Tim Walpamhan berkoordinasi dengan Penuntut Umum untuk menyiapkan kelengkapan administrasi Tahanan atau Anak.
+7) Tim Walpamhan melakukan pemeriksaan terhadap Tahanan atau Anak, meliputi:
+pada pada pada pada angka angka pada 20 a) pemeriksaan administrasi, menyesuaikan identitas Tahanan atau Anak; dan b) pemeriksaan fisik, kesehatan Tahanan atau Anak dan barang yang dibawa oleh Tahanan atau Anak.
+8) Apabila hasil pemeriksaan sebagaimana dimaksud pada angka 7) ditemukan ancaman, gangguan, hambatan, dan tantangan maka Tim Walpamhan melakukan tindakan Pengamanan dan melaporkannya kepada:
+a) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+b) Kepala Seksi Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus , Asisten Pidana Militer Kejaksaan Tinggi;
+c) Kepala Seksi Tindak Pidana Umum/Tindak Pidana Khusus Kejaksaan Negeri; atau d) Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset pada Cabang Kejaksaan Negeri, sesuai dengan tempat penanganan perkara.
+9) Tim Walpamhan memakaikan borgol dan baju atau rompi Tahanan kepada Tahanan kecuali Anak 10) Tim Walpamhan melakukan Pengawalan dan Pengamanan Tahanan
+berdasarkan formasi dan rute yang telah ditentukan 11) Setelah
+melakukan Pengawalan dan Pengamanan Tahanan Tim Walpamhan melaporkan pelaksanaannya kepada pejabat sebagaimana dimaksud 8) sesuai dengan tempat penanganan perkara dilengkapi dengan berita acara yang ditandangani oleh pihak Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA dan Tahanan atau Anak C Tahap pemeriksaan di persidangan 1) Prapersidangan a) Penuntut Umum setelah menerima penetapan hari persidangan dari pengadilan segera memberitahukan Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan Tahanan hari persidangan paling lambat 3 (tiga) hari sebelum jadwal persidangan b) Tim Walpamhan sebagaimana dimaksud huruf a) membuat surat panggilan Tahanan atau Anak secara kolektif berdasarkan yaitu yaitu pada pada pada pada angka pada pada 21 surat panggilan terdakwa yang dibuat oleh Penuntut Umum, yang ditujukan kepada Kepala Rutan, LPAS, LPKS Staltahmil, Lapas; atau LPKA yang ditandatangani oleh Kepala Kejaksaan Negeri atau Kepala Cabang Kejaksaan Negeri.
+c) Tim Walpamhan menyerahkan surat panggilan Tahanan atau Anak yang akan disidangkan sebagaimana dimaksud huruf b) kepada Kepala Rutan, LPAS, LPKS,
+Staltahmil, Lapas, atau LPKA dalam jangka waktu paling lambat 1 (satu) hari sebelum jadwal persidangan.
+d) Dalam kondisi tertentu, jangka waktu sebagaimana dimaksud huruf c) dapat dikecualikan e) Pada saat hari persidangan, Tim Walpamhan menyiapkan kelengkapan administrasi Tahanan atau Anak dan berkoordinasi dengan pihak Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA dan pengadilan untuk persiapan Pengawalan dan Pengamanan Tahanan f) Kelengkapan administrasi sebagaimana dimaksud huruf e) termasuk buku kontrol Tahanan atau Anak.
+g) Tim Walpamhan berangkat menuju Rutan, LPAS, LPKS , Staltahmil, Lapas, atau LPKA disertai dengan perlengkapan yang lengkap.
+h) Tim Walpamhan berkoordinasi dengan pihak Rutan, LPAS, LPKS _ Staltahmil, Lapas, atau LPKA dalam rangka mengeluarkan Tahanan atau Anak i) Sebelum Tahanan atau Anak dikeluarkan sebagaimana dimaksud pada huruf h), dilakukan pemeriksaan terhadap Tahanan atau Anak, meliputi:
+(1) pemeriksaan administrasi, yaitu menghitung jumlah Tahanan atau Anak dan memastikan kebenaran identitas Tahanan atau Anak; dan (2) pemeriksaan fisik, yaitu kesehatan Tahanan atau Anak dan barang-barang yang dibawa oleh Tahanan atau Anak j) Apabila hasil pemeriksaan sebagaimana dimaksud pada huruf i) ditemukan ancaman, gangguan, hambatan, dan tantangan maka Tim Walpamhan melakukan tindakan Pengamanan dan menginformasikan kepada petugas Rutan, LPAS , LPKS , Staltahmil, Lapas, atau LPKA.
+pada pada pada 22 k) Selain menginformasikan kepada petugas Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA sebagaimana dimaksud huruf j), Tim Walpamhan juga melaporkan tindakan Pengamanan kepada:
+(1) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum/ Jaksa Agung Muda Bidang Tindak Pidana Khusus / Jaksa Agung Muda Bidang Pidana Militer pada Kejaksaan Agung;
+(2) Kepala Seksi pada Asisten Bidang Tindak Pidana Umum / Asisten Bidang Tindak Pidana Khusus Asisten Bidang Pidana Militer Kejaksaan Tinggi; atau (3) Kepala Seksi Tindak Pidana Umum Kepala Seksi Tindak Pidana Khusus di Kejaksaan Negeri, dan Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset Cabang Kejaksaan Negeri, sesuai dengan tempat penanganan perkara_ 1) Tim Walpamhan memakaikan borgol dan baju atau rompi Tahanan kepada Tahanan kecuali Anak.
+m) Tim Walpamhan melakukan Pengawalan dan Pengamanan Tahanan berdasarkan formasi dan rute yang telah ditentukan.
+n) Tim Walpamhan membawa Tahanan atau Anak satu persatu atau per kelompok dari:
+(1) Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA ke mobil Tahanan; dan (2) dari mobil Tahanan ke ruang Tahanan pengadilan atau ruang tunggu sidang Anak.
+0) Sesampainya Tahanan di ruang Tahanan pengadilan, Tim Walpamhan menghitung satu per satu Tahanan atau Anak, melepas borgol Tahanan, mengunci ruang Tahanan pengadilan atau ruang tunggu sidang Anak dan melakukan pengawasan terhadap Tahanan atau Anak.
+p) Selama di ruang Tahanan pengadilan, Tahanan diwajibkan untuk memakai baju atau rompi Tahanan_ 9) Tim Walpamhan menginformasikan dengan Penuntut Umum bahwa Tahanan atau Anak telah berada di ruang Tahanan pengadilan atau ruang tunggu sidang Anak dan melaksanakan persidangan.
+pada pada pada pada siap 23 2) Persidangan a) Tim Walpamhan wajib mencatat setiap Tahanan atau Anak yang keluar dari ruang Tahanan pengadilan atau ruang tunggu sidang Anak buku kontrol Tahanan atau Anak.
+b) Tim Walpamhan melakukan formasi dan menentukan rute perpindahan Tahanan atau Anak dari ruang Tahanan pengadilan atau ruang tunggu sidang Anak ke ruang sidang.
+c) Setiap Tahanan atau Anak yang dikeluarkan dari ruang Tahanan pengadilan atau ruang tunggu sidang Anak menuju ruang sidang harus atas perintah Penuntut Umum yang bertanggungjawab terhadap Tahanan atau Anak d) Penuntut Umum sebagaimana dimaksud huruf c) memerintahkan komandan Tim Walpamhan untuk mengeluarkan Tahanan atau Anak dari ruang Tahanan pengadilan atau ruang tunggu sidang Anak menuju ruang sidang.
+e) Tahanan sebagaimana dimaksud huruf d) dalam kondisi memakai borgol dan baju atau rompi Tahanan kecuali Anak f) Borgol dan baju atau rompi Tahanan sebagaimana dimaksud pada huruf e) dapat dilepaskan apabila hakim memerintahkan Penuntut Umum untuk menghadirkan Tahanan ke depan persidangan.
+g) Selama sidang berlangsung, Tahanan atau Anak tetap dalam Pengawalan dan Pengamanan Tim Walpamhan_ 3) Pasca Persidangan a) Tim Walpamhan atas perintah Penuntut Umum wajib membawa dan memasukkan kembali Tahanan atau Anak ke ruang Tahanan pengadilan atau ruang tunggu sidang Anak dan mencatat setiap Tahanan atau Anak yang telah selesai sidang buku kontrol Tahanan atau Anak b) Setelah selesai menjalani sidang atau hakim menutup persidangan, Tim Walpamhan memakaikan borgol dan baju atau rompi Tahanan kepada Tahanan kecuali Anak, untuk dibawa kembali ke ruang Tahanan pengadilan atau ruang tunggu Anak.
+c) Selama di ruang Tahanan pengadilan, setiap Tahanan dalam kondisi tidak terborgol dan tidak diperbolehkan keluar dari ruang Tahanan tanpa izin atau perintah Penuntut Umum yang menangani perkaranya pada pada pada pada 24 d) Setelah semua Tahanan selesai menjalani sidang, Tim Walpamhan menghitung satu per satu Tahanan atau Anak sesuai jumlah Tahanan atau Anak yang diambil dari Rutan, LPAS, LPKS Staltahmil, Lapas atau LPKA dan melakukan:
+(1) pemeriksaan administrasi, yakni menghitung jumlah Tahanan atau Anak dan menyesuaikan identitas Tahanan atau Anak; dan (2) pemeriksaan fisik, yakni kesehatan Tahanan atau Anak dan barang yang dibawa oleh Tahanan atau Anak.
+e) Apabila hasil pemeriksaan sebagaimana dimaksud huruf d) ditemukan ancaman, gangguan, hambatan, dan tantangan maka Tim Walpamhan melakukan tindakan Pengamanan dan melaporkannya kepada:
+a) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+b) Kepala Seksi Asisten Tindak Pidana Umum Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi;
+c) Kepala Seksi Tindak Pidana Umum / Tindak Pidana Khusus Kejaksaan Negeri; atau d) Kepala Subseksi Tindak Pidana Umum Tindak Pidana Khusus, dan Pemulihan Aset pada Cabang Kejaksaan Negeri, sesuai dengan tempat penanganan perkara f) Setelah jumlah Tahanan atau Anak sebagaimana dimaksud huruf d) angka (1) lengkap maka Tim Walpamhan menyusun formasi dan membawa Tahanan atau Anak satu persatu atau per kelompok dari:
+(1) ruang Tahanan pengadilan atau ruang tunggu sidang Anak ke mobil Tahanan; dan (2) mobil Tahanan ke Rutan, LPAS, LPKS, Staltahmil, Lapas atau LPKA, sesuai rute yang ditentukan_ g) Setelah Tahanan atau Anak berada di Rutan, LPAS, LPKS, Staltahmil, Lapas atau LPKA, Tim Walpamhan mendampingi petugas Rutan, LPAS, LPKS Staltahmil, Lapas atau LPKA dalam melakukan pemeriksaan terhadap Tahanan atau Anak.
+pada pada pada pada pada 25 h) Setelah melakukan Pengawalan dan Pengamanan Tahanan Tim Walpamhan melaporkan pelaksanaannya kepada pejabat sebagaimana dimaksud pada huruf e) sesuai dengan tempat penanganan perkara dilengkapi dengan berita acara yang ditandatangani oleh pihak Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA dan Tahanan atau Anak i) Dalam hal terdapat putusan pengadilan dan / atau penetapan hakim yang memerintahkan agar terdakwa segera dibebaskan atau dikeluarkan dari Tahanan, administrasi pelaksanaannya dilakukan oleh Jaksa / Penuntut Umum di Rutan, LPAS, LPKS Staltahmil, Lapas atau LPKA setelah Tim Walpamhan selesai melaksanakan tugas Pengawalan dan Pengamanan Tahanan atau Anak.
+2 .
+Tahanan yang Dibantarkan (Stuiting) dan Tahanan yang Melaksanakan Izin Khusus a.
+Jaksa atau Penuntut Umum membuat nota dinas kepada Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum /Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus / Asisten Pidana Militer pada Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri untuk melakukan Pengawalan dan Pengamanan terhadap Tahanan atau Anak yang dibantarkan (stuiting) atau Tahanan atau Anak yang melaksanakan izin khusus.
+b Pengawalan dan Pengamanan terhadap Tahanan atau Anak sebagaimana dimaksud huruf a bertujuan untuk menjaga agar Tahanan berada dalam kondisi aman dan tidak melarikan diri.
+C Terhadap nota dinas sebagaimana dimaksud huruf a diterbitkan surat perintah kepada Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan Tahanan atau Anak.
+d.
+Penerbitan surat perintah sebagaimana dimaksud huruf c serta pelaksanaan pengendalian surat perintah tersebut memperhatikan ketentuan dalam Bab IV 3 € Dalam keadaan tertentu dan / atau mendesak, surat perintah sebagaimana dimaksud huruf c dapat diterbitkan paling lama hari kerja berikutnya.
+penyidik pada pada pada pada angka pada pada 26 f.
+Pengawalan dan Pengamanan terhadap Tahanan atau Anak sebagaimana dimaksud huruf b dapat melibatkan petugas Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA.
+g.
+Selama pelaksanaan pembantaran (stuiting) dan izin khusus, Tahanan dalam kondisi terborgol dan memakai baju atau rompi Tahanan, kecuali Anak h.
+Hasil pelaksanaan Pengawalan dan Pengamanan terhadap Tahanan atau Anak sebagaimana dimaksud huruf b dilaporkan secara tertulis kepada:
+1) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+2) Kepala Seksi pada Asisten Tindak Pidana Umum Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi;
+3) Kepala Seksi Tindak Pidana Umum / Tindak Pidana Khusus Kejaksaan Negeri; atau 4) Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset Cabang Kejaksaan Negeri;
+sesuai dengan tempat penanganan perkara.
+3 Tahanan yang Status Penahanannya Dialihkan Menjadi Tahanan Rutan a.
+Jaksa penyidik atau Penuntut Umum membuat nota dinas kepada Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri untuk melakukan Pengawalan dan Pengamanan terhadap Tahanan.
+b.
+Pengawalan dan Pengamanan sebagaimana dimaksud huruf a dilakukan terhadap Tahanan kota atau Tahanan rumah yang status penahanannya dialihkan menjadi Tahanan Rutan C .
+Terhadap nota dinas sebagaimana dimaksud huruf a diterbitkan surat perintah kepada Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan Tahanan.
+d.
+Penerbitan surat perintah sebagaimana dimaksud huruf c serta pelaksanaan pengendalian surat perintah tersebut memperhatikan ketentuan dalam Bab IV angka 3 e Untuk mempersiapkan kelengkapan administrasi penahanan dan berita acara kepada Rutan, LPAS, LPKS, Staltahmil, Lapas, atau LPKA, pada pada pada pada pada pada pada pada pada pada pihak 27 Tim Walpamhan berkoordinasi dengan Jaksa penyidik atau Penuntut Umum f.
+Hasil pelaksanaan Pengawalan dan Pengamanan terhadap Tahanan sebagaimana dimaksud pada huruf b dilaporkan secara tertulis kepada:
+1) Kepala Subdirektorat Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer;
+2) Kepala Seksi pada Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi;
+3) Kepala Seksi Tindak Pidana Umum / Tindak Pidana Khusus pada Kejaksaan Negeri; atau 4) Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset pada Cabang Kejaksaan Negeri, sesuai dengan tempat penanganan perkara_ 4 .
+Terdakwa atau Anak yang Berdasarkan Penetapan atau Putusan Pengadilan Memerintahkan untuk Segera Ditahan atau Berdasarkan Putusan Pengadilan Dijatuhi Pidana Penjara a.
+Pengawalan dan Pengamanan dilakukan terhadap:
+1) terdakwa yang sebelumnya merupakan Tahanan rumah atau Tahanan kota atau Tahanan atau Anak yang sebelumnya tidak dilakukan penahanan, dan berdasarkan penetapan atau putusan pengadilan memerintahkan terdakwa atau Anak untuk segera ditahan; atau 2) Tahanan yang berstatus terdakwa yang sebelumnya merupakan Tahanan rumah atau Tahanan kota atau terdakwa atau Anak, yang sebelumnya tidak ditahan, dan berdasarkan putusan pengadilan dijatuhi pidana penjara dengan perintah untuk segera ditahan.
+b.
+Pengawalan dan Pengamanan sebagaimana dimaksud huruf a dilakukan berdasarkan surat perintah dari Direktur Jaksa Agung Muda Bidang Tindak Pidana Umum / Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Umum / Asisten Tindak Pidana Khusus Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri kepada Tim Walpamhan yang berlaku hari itu C Terhadap terdakwa atau Anak sebagaimana dimaksud huruf a dapat ditempatkan sementara bersama Tahanan atau Anak lainnya di ruang Tahanan pengadilan atau ruang tunggu sidang Anak hingga semua Tahanan atau Anak selesai menjalani persidangan.
+pada pada pada pada pada pada 28 d Tim Walpamhan berkoordinasi dengan Penuntut Umum untuk mempersiapkan:
+1) kelengkapan administrasi penahanan Rutan, LPAS, atau LPKS terhadap Tahanan atau Anak; atau 2) kelengkapan administrasi pelaksanaan putusan pidana penjara.
+e Hasil pelaksanaan Pengawalan dan Pengamanan sebagaimana dimaksud huruf a dilaporkan Tim Walpamhan bersama dengan pelaporan pelaksanaan Pengawalan dan Pengamanan Tahanan atau Anak hari itu_ 5 Terpidana atau Anak yang Menjadi Saksi dalam Perkara Lain a.
+Jaksa penyidik atau Penuntut Umum membuat nota dinas kepada Direktur Jaksa Agung Muda Bidang Tindak Pidana Khusus / Bidang Pidana Militer, Asisten Tindak Pidana Khusus / Asisten Pidana Militer Kejaksaan Tinggi, Kepala Kejaksaan Negeri, atau Kepala Cabang Kejaksaan Negeri secara berjenjang untuk melakukan Pengawalan dan Pengamanan terhadap terpidana atau Anak.
+b Pengawalan dan Pengamanan sebagaimana dimaksud pada haruf a dilakukan terhadap terpidana atau Anak yang sedang menjalani pidana dan menjadi saksi dalam perkara lain yang bertujuan untuk menjaga agar terpidana atau Anak berada dalam kondisi aman selama menjalani proses pemeriksaan sebagai saksi tahap penyidikan maupun pemeriksaan di persidangan C Terhadap nota dinas sebagaimana dimaksud huruf a diterbitkan surat perintah kepada Tim Walpamhan untuk melakukan Pengawalan dan Pengamanan.
+d.
+Penerbitan surat perintah sebagaimana dimaksud huruf C serta pelaksanaan pengendalian surat perintah tersebut memperhatikan ketentuan dalam Bab IV angka 3 e Prosedur Pengawalan dan Pengamanan Tahanan Rutan atau Anak pada LPAS atau LPKS tahap penyidikan dan pemeriksaan di persidangan sebagaimana dimaksud Bab VI angka 1 huruf a dan huruf c berlaku mutatis mutandis terhadap prosedur Pengawalan dan Pengamanan terpidana atau Anak yang menjadi saksi dalam perkara lain.
+f Terhadap Terpidana atau Anak sebagaimana dimaksud huruf a dapat ditempatkan sementara bersama Tahanan atau Anak lainnya di ruang Tahanan pengadilan atau ruang tunggu sidang Anak sampai semua Tahanan atau Anak selesai menjalani persidangan.
+pada pada pada pada pada pada tahap pada pada tahap pada pada pada 29 g Tim Walpamhan berkoordinasi dengan Jaksa untuk mempersiapkan kelengkapan administrasi pelaksanaan putusan pidana penjara terhadap terpidana atau Anak.
+h.
+Hasil pelaksanaan Pengawalan dan Pengamanan sebagaimana dimaksud pada huruf a dilaporkan Tim Walpamhan bersama dengan pelaporan pelaksanaan Pengawalan dan Pengamanan Tahanan atau Anak hari itu BAB VII PRASARANA DAN SARANA 1.
+Standar minimum prasarana dan sarana dalam melakukan Pengawalan dan Pengamanan Tahanan meliputi:
+a.
+alat transportasi;
+b.
+borgol besi;
+C tongkat T;
+d.
+baju atau rompi Tahanan yang bertuliskan "Tahanan Kejaksaan dan e alat komunikasi.
+2 Selain prasarana dan sarana sebagaimana dimaksud angka 1, pelaksanaan Pengawalan dan Pengamanan Tahanan dapat dilengkapi dengan prasarana dan sarana lainnya, antara lain:
+8 alat kejut listrik (stun gun);
+b sangkur;
+c closed circuit television (CCTV);
+d alat pengawas elektronik (APE);
+e alat komunikasi handy talkie (HT) dan/ atau alat komunikasi lainnya;
+dan/ atau f.
+perlengkapan lainnya yang diperlukan.
+3 Alat transportasi sebagaimana dimaksud angka 1 huruf a, antara lain:
+8.
+mobil Tahanan;
+b.
+kapal laut;
+C pesawat;
+d.
+kereta api; dan/ atau e transportasi umum lainnya sesuai dengan ketentuan peraturan perundang-undangan atau peraturan kebijakan pada pada pada 30 4 .
+Tim Walpamhan dapat dilengkapi dengan senjata api dinas yang izin penggunaannya dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+5 Dalam keadaan tertentu, Prajurit TNI dapat menggunakan senjata api yang dikelola oleh Kejaksaan sesuai dengan ketentuan peraturan perundang - undangan 6 Dalam kondisi tertentu, terhadap Tahanan dapat dipasangi alat pengawas elektronik yang merupakan perangkat elektronik berupa gelang atau dalam bentuk lain yang terhubung dengan unit pengawas melalui jaringan khusus, frekuensi radio, satelit, atau teknologi lainnya yang mentransmisikan lokasi tertentu di mana perangkat tersebut berada waktu tertentu.
+BAB VIII KEADAAN DARURAT 1 Dalam hal terjadi keadaan darurat, Tim Walpamhan dapat bertindak berdasarkan penilaiannya sendiri dengan tujuan melakukan Pengamanan dan penyelamatan terhadap Tahanan atau Anak, serta wajib melaporkan kepada:
+a.
+Kepala Subdirektorat pada Jaksa Agung Muda Bidang Tindak Pidana Umum/ Jaksa Agung Muda Bidang Tindak Pidana Khusus/Jaksa Agung Muda Bidang Pidana Militer Kejaksaan Agung;
+b.
+Kepala Seksi Asisten Bidang Tindak Pidana Umum/ Asisten Bidang Tindak Pidana Khusus / pada Asisten Bidang Pidana Militer Kejaksaan Tinggi;
+C.
+Kepala Seksi Tindak Pidana Umum / Kepala Seksi Tindak Pidana Khusus di Kejaksaan Negeri; dan d.
+Kepala Subseksi Tindak Pidana Umum, Tindak Pidana Khusus, dan Pemulihan Aset Cabang Kejaksaan Negeri, selaku pengendali surat perintah Tim Walpamhan sesuai tempat penanganan perkaranya.
+2 Pelaporan sebagaimana dimaksud angka 1 dilakukan kesempatan pertama dengan sarana tercepat.
+3 Setelah menerima laporan dari Tim Walpamhan, pejabat sebagaimana dimaksud angka 1 segera berkoordinasi dengan Kepolisian dan / atau Tentara Nasional Indonesia untuk meminta bantuan Pengawalan dan Pengamanan.
+pada pada pada pada pada pada pada pada pihak pada 31 4 .
+Dalam hal Tim Walpamhan menemukan Tahanan atau Anak melakukan perlawanan, dan / atau membuat keributan dengan Tahanan lain maka Tim Walpamhan secara terukur dapat melumpuhkan Tahanan atau mengamankan Anak dan membuat laporan kepada pejabat sebagaimana dimaksud angka 1 kesempatan pertama dengan sarana tercepat.
+5 Dalam hal Tahanan atau Anak melarikan diri, Tim Walpamhan segera melakukan pencarian dan penangkapan secara maksimal terhadap Tahanan atau Anak yang melarikan diri dan melaporkannya kepada pejabat sebagaimana dimaksud angka 1 dengan menggunakan sarana tercepat sehingga pejabat dimaksud dapat segera berkoordinasi dengan Kepolisian dan / atau Tentara Nasional Indonesia meminta bantuan pencarian.
+BAB IX DUKUNGAN INTELIJEN Selama masa Pengawalan dan Pengamanan Tahanan, Bidang Intelijen memberi dukungan intelijen penegakan hukum menyangkut ancaman, gangguan, hambatan, dan tantangan dalam pelaksanaan Pengawalan dan Pengamanan Tahanan.
+BAB X PENDIDIKAN DAN PELATIHAN 1 Badan Pendidikan dan Pelatihan menyelenggarakan pendidikan dan pelatihan Pengawalan dan Pengamanan Tahanan 2 Pendidikan dan pelatihan sebagaimana dimaksud 1, terdiri atas:
+a.
+tingkat dasar; dan b.
+tingkat lanjutan, sesuai standar kompetensi Pengamanan dan Pengawalan Tahanan 3 .
+Pendidikan dan pelatihan sebagaimana dimaksud angka 2 mengikuti kurikulum dan modul yang ditetapkan oleh Badan Pendidikan dan Pelatihan dan disusun berdasarkan analisis kebutuhan pendidikan dan pelatihan 4 .
+Analisis kebutuhan pendidikan dan pelatihan sebagaimana dimaksud 3 dilakukan pembahasan dengan bidang-bidang terkait di bawah koordinasi Badan Pendidikan dan Pelatihan.
+pada pada pada pihak guna pada angka pada pada angka 32 5 Pendidikan dan pelatihan tingkat dasar sebagaimana dimaksud pada angka 2 huruf a dilaksanakan oleh Badan Pendidikan dan Pelatihan dengan peserta:
+a.
+pegawai negeri sipil dengan jabatan pelaksana penjaga Tahanan; atau b.
+pegawai negeri sipil yang ditugaskan sebagai pengawal dan pengaman Tahanan dan belum pernah mengikuti pendidikan dan pelatihan Pengawalan dan Pengamanan Tahanan.
+6 Pendidikan dan pelatihan tingkat lanjutan sebagaimana dimaksud pada 2 huruf b dilaksanakan oleh Badan Pendidikan dan Pelatihan dengan peserta yang telah mengikuti pendidikan dan pelatihan Pengawalan dan Pengamanan tahanan tingkat dasar.
+7 .
+Dalam menyelenggarakan pendidikan dan pelatihan Pengawalan dan Pengamanan Tahanan sebagaimana dimaksud angka 1, Badan Pendidikan dan Pelatihan dapat bekerja sama dengan Tentara Nasional Indonesia dan/ atau instansi terkait lainnya.
+8 Pendidikan dan pelatihan Pengawalan dan Pengamanan Tahanan sebagaimana dimaksud pada angka 1 dapat dilaksanakan di daerah melalui sentra diklat.
+BAB XI PENDATAAN Tim Walpamhan melakukan pendataan pelaksanaan Pengawalan dan Pengamanan Tahanan melalui case management system (CMS) secara berkala yang meliputi:
+1 .
+data Tahanan atau Anak yang dilakukan Pengawalan dan Pengamanan;
+2 kegiatan Pengawalan dan Pengamanan Tahanan; dan 3 data Tim Walpamhan yang melakukan Pengawalan dan Pengamanan.
+BAB XII PENDANAAN Segala biaya yang timbul dalam pelaksanaan Pengawalan dan Pengamanan Tahanan bersumber dari:
+a Daftar Isian Pelaksanaan Anggaran (DIPA) Kejaksaan; dan/atau b sumber pendanaan lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan angka pada 33 BAB XIII KETENTUAN PERALIHAN Pelaksanaan Pengawalan dan Pengamanan Tahanan yang dilaksanakan sebelum Pedoman ini berlaku, tetap berjalan sampai dengan masa surat perintah penugasan berakhir dan selanjutnya pelaksanaannya menyesuaikan dengan Pedoman ini.
+BAB XIV PENUTUP 1.
+Pedoman ini agar dilaksanakan sebaik-baiknya dengan penuh tanggung jawab.
+2 .
+Pedoman ini mulai berlaku sejak tanggal ditetapkan.
